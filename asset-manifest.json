@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/login-app/static/css/main.d6392d0b.css",
+    "main.js": "/login-app/static/js/main.d662e627.js",
+    "static/media/facebook-logo.svg": "/login-app/static/media/facebook-logo.2acafa1ddf28d48a9cdd4ace5a7eee51.svg",
+    "static/media/google-logo.svg": "/login-app/static/media/google-logo.fb24b2ee405aed02271637296cf4c0d9.svg",
+    "index.html": "/login-app/index.html",
+    "main.d6392d0b.css.map": "/login-app/static/css/main.d6392d0b.css.map",
+    "main.d662e627.js.map": "/login-app/static/js/main.d662e627.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6392d0b.css",
+    "static/js/main.d662e627.js"
+  ]
+}
